@@ -1,0 +1,2 @@
+Prefix plugins/Head/example/
+Plugin Head inputfile parameters.head.txt outputfile Top10.rds
